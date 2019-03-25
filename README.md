@@ -1,2 +1,2 @@
-# space-shooter
-A repository for a space shooter game 
+# Space Shooter
+A repository for a 3D space shooter game! 
